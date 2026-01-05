@@ -5,6 +5,6 @@
 * **AI/ML:** TensorFlow.js, Python
 
 * ## Group Members
-- Gisella Jayata - 2702253396
-- Felicia Valerin - 2702252992
-- Richael Cathleen - 2702251503
+Gisella Jayata - 2702253396
+Felicia Valerin - 2702252992
+Richael Cathleen - 2702251503
